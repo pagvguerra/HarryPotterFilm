@@ -1,7 +1,7 @@
 # HarryPotterFilm
 Projeto baseado no Film HarryPotter - APIs Rest para gerenciar personagens de HarryPotter  
 
-Neste projeto foram utilizadas as tecnologias **SPRING BOOT, SPRING DATA MONGODB, SPRING DATA JPA, LOMBOK, SWAGGER**  
+Neste projeto foram utilizadas tecnologias como: **SPRING BOOT, SPRING DATA JPA, LOMBOK, SWAGGER, JACKSON, entre outras**  
 Banco de dados **MONGODB**  
   
 As APIs disponibilizadas para utilização deste projeto são:  

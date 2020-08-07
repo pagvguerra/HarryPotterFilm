@@ -13,6 +13,7 @@ As APIs disponibilizadas para utilização deste projeto são:
 **Incluir um Personagem:** /api/characters/save - **Método:** Post  
 **Atualizar um Personagem:** /api/characters/save/{id} - **Método:** Put  
   
-    
+  
+  
 **Obs:** Lembrando que para salvar ou atualizar um Personagem é necessário enviar um ID válido para a Casa (de acordo com a PotterAPI).  
 Caso contrário uma mensagem de erro será apresentada como resposta.
